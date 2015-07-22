@@ -28,7 +28,7 @@ $(document).ready(function() {
             newContact.addresses.push(newAddress);
         });
 
-        $("ul#contacts").append("<li><span class='contact'>" + newContact.firstName + "</span></li>");
+        $("ul#contacts").append("<li><span class='contact button'>" + newContact.firstName + "</span></li>");
 
         $(".contact").last().click(function(){
             $("#show-contact").show();

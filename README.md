@@ -1,5 +1,5 @@
 # Developers: Brian Kropff and Jill Kuchman
-# Date: 16 April 2015
+## Date: 16 April 2015
 
 # Update
 ## Developers: Brian Kropff
@@ -8,15 +8,15 @@
 Description:
 This app is an address book that allows a user to add contacts with multiple addresses.
 
-## SetUp
-### 1.Clone this git repository
-### 2.Start the web app by loading index.html in your browser
+# SetUp
+#### 1.Clone this git repository
+#### 2.Start the web app by loading index.html in your browser
 
-# Copyright (c) 2015 (Brian Kropff & Jill Kuchman)
+### Copyright (c) 2015 (Brian Kropff & Jill Kuchman)
 
-# The MIT License (MIT)
+### The MIT License (MIT)
 
-# PERMISSION*
+### PERMISSION*
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
 the Software without restriction, including without limitation the rights to
@@ -27,7 +27,7 @@ do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
  copies or substantial portions of the Software.
 
-# LICENSING*
+### LICENSING*
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
