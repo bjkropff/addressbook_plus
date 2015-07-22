@@ -1,3 +1,6 @@
+
+
+
 # Developers: Brian Kropff and Jill Kuchman
 # Date: 16 April 2015
 
@@ -8,7 +11,8 @@ This app is an address book that allows a user to add contacts with multiple add
 In order to use this program you will need a browser...NOT IE!
 
 SetUp
-1.
+1. Clone this git repository
+2. Start the web app by loading index.html in your browser
 
 # Copyright (c) 2015 (Brian Kropff & Jill Kuchman)
 
